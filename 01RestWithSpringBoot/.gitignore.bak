@@ -1,0 +1,11 @@
+/.metadata/
+
+/target/
+
+/.classpath
+/.springBeans
+/.gitignore
+/.project
+/.settings/
+/.gradle/
+/build/
