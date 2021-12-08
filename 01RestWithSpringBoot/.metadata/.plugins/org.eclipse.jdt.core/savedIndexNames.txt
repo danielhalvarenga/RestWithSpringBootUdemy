@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\el\java_projects\spring\UdemySpringBoot\RestWithSpringBootUdemy\01RestWithSpringBoot\.metadata\.plugins\org.eclipse.jdt.core
+2186019955.index
