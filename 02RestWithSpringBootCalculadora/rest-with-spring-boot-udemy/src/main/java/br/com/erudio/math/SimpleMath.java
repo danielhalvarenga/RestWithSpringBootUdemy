@@ -4,6 +4,9 @@ import static br.com.erudio.converter.NumberConverter.convertToDouble;
 
 import java.util.List;
 
+import org.springframework.stereotype.Service;
+
+@Service
 public class SimpleMath {
 
 	public Double average(List<String> numbers) {
